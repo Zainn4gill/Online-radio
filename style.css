@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#searchInput {
+  width: 80%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+#searchResults div {
+  margin: 5px;
+  cursor: pointer;
+  color: blue;
+}
+
+#searchResults div:hover {
+  text-decoration: underline;
+}
